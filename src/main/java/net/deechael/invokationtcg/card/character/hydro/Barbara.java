@@ -1,7 +1,8 @@
-package net.deechael.invokationtcg.card.character;
+package net.deechael.invokationtcg.card.character.hydro;
 
 import net.deechael.invokationtcg.Character;
 import net.deechael.invokationtcg.ElementType;
+import net.deechael.invokationtcg.card.character.CharacterCard;
 import net.deechael.invokationtcg.character.WeaponType;
 import net.deechael.invokationtcg.character.elementalburst.ElementalBurst;
 import net.deechael.invokationtcg.character.elementalburst.hydro.ShiningMiracle;

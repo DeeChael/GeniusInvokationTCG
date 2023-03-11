@@ -1,7 +1,7 @@
 package net.deechael.invokationtcg.card;
 
 import net.deechael.invokationtcg.card.action.ActionCard;
-import net.deechael.invokationtcg.card.character.Barbara;
+import net.deechael.invokationtcg.card.character.hydro.Barbara;
 import net.deechael.invokationtcg.card.character.CharacterCard;
 
 import java.util.HashMap;
